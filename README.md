@@ -12,8 +12,8 @@ Analyze what customers say about Belgium’s four major telecom providers: Telen
 
 ### 2. Automated review scraping
 - **Tool**: Selenium
-- **Process**: Visit store url pages → Open Reviews tab → Scroll-load all reviews
-- **Data**: Ratings + reviews text content + shop location
+- **Process**: Visit store url pages (318 url) → Open Reviews tab → Scroll-load all reviews
+- **Data**: 77K reviews including both ratings (1-5 stars) and reviews text content
 
 ### 3. Data Processing
 - **Deduplication**: Remove duplicate reviews
