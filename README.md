@@ -23,8 +23,21 @@ Analyze what customers say about Belgium’s four major telecom providers: Telen
 ## Exploratory Analysis
 
 ### Number of reviews & rating trends over time (by provider and region)
+Number of review over time
+<img width="868" height="316" alt="image" src="https://github.com/user-attachments/assets/16cec57d-a8c1-4cd8-b7bf-1ae5158051ab" />
+
+Histogram of rating distribution by provider
+
+<img width="1189" height="396" alt="image" src="https://github.com/user-attachments/assets/69cef621-beb8-4776-95a4-2ee8a232e37e" />
+
+Review trend over time by provider
+
+<img width="1489" height="790" alt="image" src="https://github.com/user-attachments/assets/414c56f6-ff0a-40dd-aac6-049732263bbd" />
+
 Early observation: Average ratings show a noticeable dip across providers from 2022–2024. A plausible hypothesis is a post-pandemic return to in-store visits that exposed service bottlenecks; this requires further validation with operational/context data.
 
-<img width="1489" height="790" alt="image" src="https://github.com/user-attachments/assets/eb0de0ab-2007-4f98-a1d0-8b05f4f1c9e3" />
+Average rating by region by provider
+
+<img width="1189" height="413" alt="image" src="https://github.com/user-attachments/assets/65a39b7f-cad6-4659-80c0-67dcb9c65dc6" />
 
 
