@@ -117,7 +117,7 @@ class ReviewsScraper:
                 review = {
                     'reviewer_name': self._safe_extract(element, ".d4r55"),
                     'rating': self._extract_rating(element),
-                    'review_text': self._safe_extract(element, ".wiI7pd"),
+                    'review_text': self._safe_extract(element, ".MyEned .wiI7pd"), # both myEned wiI7pd class for review text only not response from the shop
                     'date': self._safe_extract(element, ".rsqaWe"),
                     'reviewer_type': self._safe_extract(element, ".RfnDt"), 
                     'source_url': url,
@@ -236,7 +236,7 @@ def run_scraper(csv_file, url_column='url', review_count_column='review', output
         scraper.close()
         print("Scraping completed!")
 
-# Usage
+
 if __name__ == "__main__":
     csv_file = r"D:\Data Analysis\Reviews\Shop URL list\scraping_list.csv"
     output_dir = r"D:\Data Analysis\Reviews\Reviews"
