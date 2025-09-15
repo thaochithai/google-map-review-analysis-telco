@@ -34,10 +34,17 @@ Review trend over time by provider
 
 <img width="1489" height="790" alt="image" src="https://github.com/user-attachments/assets/414c56f6-ff0a-40dd-aac6-049732263bbd" />
 
-Early observation: Average ratings show a noticeable dip across providers from 2022–2024. A plausible hypothesis is a post-pandemic return to in-store visits that exposed service bottlenecks; this requires further validation with operational/context data.
+Early observation: Average ratings show a noticeable dip across providers from 2022–2024. A plausible hypothesis is a post-pandemic return to in-store visits that exposedservice bottlenecks; this requires further validation with operational/context data.
 
 Average rating by region by provider
 
 <img width="1189" height="413" alt="image" src="https://github.com/user-attachments/assets/65a39b7f-cad6-4659-80c0-67dcb9c65dc6" />
+
+## Word Cloud
+### Negative reviews
+<img width="1521" height="790" alt="image" src="https://github.com/user-attachments/assets/53786030-0b46-4e84-8a8a-92f3586543d8" />
+
+### Positive reviews
+<img width="1521" height="790" alt="image" src="https://github.com/user-attachments/assets/3657e0a9-3da6-40e0-9383-934b431f2392" />
 
 
